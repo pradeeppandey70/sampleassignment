@@ -1,0 +1,1 @@
+This is the basic automation of a login page using selenium java and testng. I have created a testng.xml file for running. I can add utility class for waiting and other common things but require time. 
